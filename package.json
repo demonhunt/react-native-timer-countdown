@@ -1,6 +1,6 @@
 {
   "name": "react-native-timer-countdown",
-  "version": "4.0.7",
+  "version": "4.1.0",
   "description": "A minimal and customizable countdown timer for React Native (iOS and Android)",
   "main": "index.js",
   "scripts": {
