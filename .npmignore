@@ -1,16 +1,14 @@
-index.tsx
 .github
-.edit
 .DS_STORE
+.editorconfig
 .vscode
-
-node_modules
+.travis.yml
 
 npm-debug.log
 npm-debug.log*
 .prettierrc
 .prettierignore
-README.md
+index.tsx
 tsconfig.json
 tslint.json
 demo.gif
