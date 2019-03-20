@@ -1,6 +1,7 @@
 
 <p align="center">
 <a href="https://www.npmjs.com/package/react-native-timer-countdown" alt="npm version"><img src="https://badge.fury.io/js/react-native-timer-countdown.svg" /></a>
+<a href="https://travis-ci.com/noelyoo/react-native-timer-countdown" alt="npm license"><img src="https://travis-ci.com/noelyoo/react-native-timer-countdown.svg?branch=master" /></a>
 <a href="https://www.npmjs.com/package/react-native-timer-countdown" alt="npm downloads monthly"><img src="https://img.shields.io/npm/dm/react-native-timer-countdown.svg" /></a>
 <a href="https://www.npmjs.com/package/react-native-timer-countdown" alt="npm license"><img src="https://img.shields.io/npm/l/react-native-timer-countdown.svg" /></a>
 </p>
